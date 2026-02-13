@@ -1,5 +1,14 @@
 # HTTQ Protocol Specification (v1.0)
 
+This project is licensed under the **Sovereign Commons** model.
+
+- **Source Code**: [GNU General Public License v3.0 (GPL-3.0)](./LICENSE-CODE)
+- **Protocol Specification**: [Polyform Non-Commercial License 1.0.0](./LICENSE-NC.md)
+
+See [LICENSE](./LICENSE) for full details.
+
+---
+
 **Hyper-Text Transport Quantum** is the decentralized transport layer for the Nara Web 4.0 ecosystem.
 
 ## 1. Philosophy
