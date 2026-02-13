@@ -2,6 +2,8 @@
 
 This project is licensed under the **Sovereign Commons** model.
 
+PS: This overall license style ensures that we can protect and enable httq's potential for the future of integrated Quantum systems starting with the Quantum Web which is crucial to our collective evolution to the future of Web 5
+
 - **Source Code**: [GNU General Public License v3.0 (GPL-3.0)](./LICENSE-CODE)
 - **Protocol Specification**: [Polyform Non-Commercial License 1.0.0](./LICENSE-NC.md)
 
